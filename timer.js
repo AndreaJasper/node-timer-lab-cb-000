@@ -18,6 +18,6 @@ function myCallback(a,b) {
     process.exit(0);
   } else {
     cnt--;
-    console.log()
+    console.log('Left: ' + cnt + 's');
   }
 }
